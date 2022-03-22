@@ -5,4 +5,8 @@
 
 <img width="400" height="450" src="./pic/2st.png"></img>
 
+## 3주차 과제 (2022-03-22)
 
+<img width="200" height="400" src="./pic/3주차_메인화면.png"></img>
+<img width="200" height="400" src="./pic/3주차_네이버.png"></img>
+<img width="200" height="400" src="./pic/3주차_전화걸기.png"></img>
