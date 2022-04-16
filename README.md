@@ -18,4 +18,8 @@
 <img width="250" height="400" src="./pic/main.png"></img>
 <img width="250" height="400" src="./pic/activity.png"></img>
 
-
+## 6주차 과제 (2022-04-12)
+<img width="200" height="400" src="./pic/6주차_이미지1.png"></img>
+<img width="200" height="400" src="./pic/6주차_이미지2.png"></img>
+<img width="200" height="400" src="./pic/6주차_넓이.png"></img>
+<img width="200" height="400" src="./pic/6주차_높이.png"></img>
