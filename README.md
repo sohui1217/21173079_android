@@ -23,3 +23,9 @@
 <img width="200" height="400" src="./pic/6주차_이미지2.png"></img>
 <img width="200" height="400" src="./pic/6주차_넓이.png"></img>
 <img width="200" height="400" src="./pic/6주차_높이.png"></img>
+
+## 10주차 과제 (2022-05-10)
+<img width="200" height="400" src="./pic/10주차_메인화면.png"></img>
+<img width="200" height="400" src="./pic/10주차_메뉴화면.png"></img>
+<img width="200" height="400" src="./pic/10주차_전환화면1.png"></img>
+<img width="200" height="400" src="./pic/10주차_전환화면2.png"></img>
